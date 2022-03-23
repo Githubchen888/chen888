@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Happy8'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D1AC058EB344CD79B098A8B7DAD4C26 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DACD72ADDDCC4AA4A6698E8851673257 }}
